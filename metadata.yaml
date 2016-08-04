@@ -1,0 +1,38 @@
+_repo: History-of-the-Conflict-Between-Religion-and-Science_1185
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Draper, John William
+    alias: Draper, J. W. (John William)
+    birthdate: 1811
+    deathdate: 1882
+    gutenberg_agent_id: '545'
+    url: http://www.gutenberg.org/2009/agents/545
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Draper
+description: '"The antagonism we witness between Religion and Science is the continuation
+  of a struggle that commenced when Christianity began to attain political power.
+  Can we exaggerate the importance of a contention in which every thoughtful person
+  must take part whether he will or not? In a matter so solemn as that of religion,
+  all men, whose temporal interests are not involved in existing institutions, earnestly
+  desire to find the truth. What I have sought to do is, to present a clear and impartial
+  statement of the views and acts of the two contending parties. In one sense I have
+  tried to identify myself with each, so as to comprehend thoroughly their motives;
+  but in another and higher sense I have endeavored to stand aloof, and relate with
+  impartiality their actions. I therefore trust that those, who may be disposed to
+  criticize this book, will bear in mind that its object is not to advocate the views
+  and pretensions of either party, but to explain clearly, and without shrinking,
+  those of both"--Préface. (PsycINFO Database Record (c) 2010 APA, all rights reserved).'
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion and science -- History'
+- !lcc 'BL'
+- GITenberg
+title: History of the Conflict Between Religion and Science
+url: http://www.gutenberg.org/ebooks/1185
