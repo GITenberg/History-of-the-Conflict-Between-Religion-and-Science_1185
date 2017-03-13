@@ -1,5 +1,8 @@
 _repo: History-of-the-Conflict-Between-Religion-and-Science_1185
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Draper, John William
@@ -22,6 +25,8 @@ description: '"The antagonism we witness between Religion and Science is the con
   criticize this book, will bear in mind that its object is not to advocate the views
   and pretensions of either party, but to explain clearly, and without shrinking,
   those of both"--Préface. (PsycINFO Database Record (c) 2010 APA, all rights reserved).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1185#History-of-the-Conflict-Between-Religion-and-Science
 gutenberg_issued: '1998-02-01'
 gutenberg_type: Text
 identifiers:
